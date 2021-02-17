@@ -9,6 +9,8 @@
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "material-ui": "^0.20.2",
     "mongoose": "^5.11.15",
     "react": "16.8.6",
     "react-bootstrap": "^1.4.3",
