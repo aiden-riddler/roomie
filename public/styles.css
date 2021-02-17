@@ -10,6 +10,12 @@ body {
   background: #eee;
   padding: 0 16px;
 }
+.vertical-center {
+  margin: 50px 50px 10px 550px;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 
 header {
   background-color: #f5ba13;
